@@ -11,7 +11,7 @@
     - increaseAllowance is standard, but _approve function is different
 - C because it misses the _beforeTokenTransfer and _afterTokenTransfer hooks
 - Correct answers: A, B - I think the question was misleading. _transfer function does not have the standard implementation
-- 0.5 points
+- 0.5 points in worst case
 
 
 [Q2] In InSecureum
@@ -89,7 +89,6 @@ require(owner != address(0), "ERC20: approve to the zero address");
 - C, because ```_allowances[owner][spender] += amount;``` should use = instead of +=
 
 # Final score: 7/8 points
-
 According to https://polygon.nftscan.com/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e?module=NFTs, I would have been on position 12
 
 # Official write-up of solutions:
