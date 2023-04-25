@@ -83,4 +83,4 @@
 According to https://polygon.nftscan.com/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e?module=NFTs, I would have been on positions 3-7
 
 # Official write-up of solutions:
-https://ventral.digital/posts/2022/2/9/secureum-bootcamp-february-race-4
+https://ventral.digital/posts/2022/8/29/secureum-bootcamp-epoch-august-race-9
