@@ -257,7 +257,7 @@ Q32 The number of decimals in Ether is
 - C
 - Correct answer: C
 
-# Final score: 25/32 questions
+# Final score: 25/32 questions - note I didn't know there was a time limit
 
 # Official write-up of solutions:
-https://ventral.digital/posts/2023/1/30/race-14-of-the-secureum-bootcamp-epoch-infinity
+https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz
