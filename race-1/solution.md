@@ -260,4 +260,4 @@ Q32 The number of decimals in Ether is
 # Final score: 25/32 questions - note I didn't know there was a time limit
 
 # Official write-up of solutions:
-https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz
+https://ventral.digital/posts/2021/10/17/secureum-bootcamp-ethereum-101-quiz
